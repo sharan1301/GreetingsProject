@@ -1,3 +1,0 @@
-INDEX VERSION 1.134
-C:\Users\Padmasharan\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\879696258.index
-\GreetingProject\src\main\java
